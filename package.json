@@ -11,6 +11,7 @@
   },
   "keywords": [],
   "author": "Vova Pliuto <vovaplyuto@gmail.com>",
+  "author": "Egor Krechuniak",
   "license": "ISC",
   "dependencies": {
     "commander": "^11.0.0",
